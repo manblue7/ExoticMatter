@@ -1,5 +1,3 @@
-
-from http.client import PARTIAL_CONTENT
 import random
 import pygame
 from sys import exit
